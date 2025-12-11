@@ -1,9 +1,42 @@
 import { User as UserType, CreditCard } from '../../../shared/types/index.js';
 import { v4 as uuidv4 } from 'uuid';
+import { StorageService } from '../utils/storage.js';
 
 export class UserModel {
   private static users: Map<string, UserType> = new Map();
   private static defaultUserId = 'default-user'; // Для MVP используем одного пользователя
+  private static initialized = false;
+
+  /**
+   * Инициализирует модель: загружает данные из файла
+   */
+  static async initialize(): Promise<void> {
+    if (this.initialized) {
+      return;
+    }
+
+    try {
+      await StorageService.initialize();
+      this.users = await StorageService.loadUsers();
+      this.initialized = true;
+      console.log('✅ User data loaded from storage');
+    } catch (error) {
+      console.error('Failed to initialize UserModel:', error);
+      throw error;
+    }
+  }
+
+  /**
+   * Сохраняет пользователя в файл
+   */
+  private static async persistUser(user: UserType): Promise<void> {
+    try {
+      await StorageService.saveUser(user);
+    } catch (error) {
+      console.error('Failed to persist user:', error);
+      // Не бросаем ошибку, чтобы не ломать основную функциональность
+    }
+  }
 
   static getDefaultUser(): UserType {
     const existing = this.users.get(this.defaultUserId);
@@ -19,6 +52,8 @@ export class UserModel {
     };
 
     this.users.set(this.defaultUserId, newUser);
+    // Сохраняем нового пользователя
+    this.persistUser(newUser).catch(console.error);
     return newUser;
   }
 
@@ -32,6 +67,8 @@ export class UserModel {
       updatedAt: new Date().toISOString(),
     };
     this.users.set(user.id, updated);
+    // Сохраняем изменения
+    this.persistUser(updated).catch(console.error);
     return updated;
   }
 

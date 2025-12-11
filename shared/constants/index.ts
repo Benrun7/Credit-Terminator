@@ -22,3 +22,5 @@ export const MAX_PROJECTION_MONTHS = 120; // 10 лет
 // Минимальный процент для расчета эффективности
 export const MIN_EFFICIENCY_THRESHOLD = 30;
 
+
+

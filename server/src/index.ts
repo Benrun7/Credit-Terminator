@@ -3,6 +3,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import cardsRouter from './routes/cards.js';
 import calculationsRouter from './routes/calculations.js';
+import { UserModel } from './models/User.js';
 
 dotenv.config();
 
@@ -21,7 +22,20 @@ app.get('/api/health', (req, res) => {
   res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
-app.listen(PORT, () => {
-  console.log(`🚀 Server running on http://localhost:${PORT}`);
-});
+// Инициализация и запуск сервера
+async function startServer() {
+  try {
+    // Инициализируем хранилище пользователей
+    await UserModel.initialize();
+    
+    app.listen(PORT, () => {
+      console.log(`🚀 Server running on http://localhost:${PORT}`);
+    });
+  } catch (error) {
+    console.error('Failed to start server:', error);
+    process.exit(1);
+  }
+}
+
+startServer();
 
