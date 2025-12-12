@@ -16,8 +16,8 @@
 
 ```
 /project-root
-  /client          # React + TypeScript + Vite фронтенд
-  /server          # Node.js + Express + TypeScript бэкенд
+  /client          # React + JavaScript + Vite фронтенд
+  /server          # Node.js + Express + JavaScript бэкенд
   /shared          # Общие типы и константы
   .env             # Переменные окружения
   README.md
@@ -69,7 +69,7 @@ cd server && npm start
 
 ### Frontend
 - React 18
-- TypeScript
+- JavaScript
 - Vite
 - Recharts (графики)
 - Axios (HTTP клиент)
@@ -77,7 +77,7 @@ cd server && npm start
 ### Backend
 - Node.js
 - Express
-- TypeScript
+- JavaScript
 - In-memory storage (для MVP)
 
 ## 🎯 Основные функции
