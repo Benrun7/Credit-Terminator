@@ -1,0 +1,66 @@
+{
+  "default-user": {
+    "id": "default-user",
+    "cards": [
+      {
+        "name": "Сбербанк Visa",
+        "balance": 628867.53,
+        "interestRate": 23.9,
+        "minPayment": 50000,
+        "paymentDate": 25,
+        "currency": "RUB",
+        "id": "ca3eb303-dedb-4c33-92b5-c9f7eaf7008c"
+      },
+      {
+        "name": "Тинькоф MasterCard",
+        "balance": 127906.38,
+        "interestRate": 27.5,
+        "minPayment": 9100,
+        "paymentDate": 4,
+        "currency": "RUB",
+        "id": "72c8e932-3f2e-45d0-819c-9fa7c6668eb7"
+      }
+    ],
+    "createdAt": "2025-12-11T08:45:17.497Z",
+    "updatedAt": "2025-12-11T10:20:52.138Z",
+    "scenarios": [
+      {
+        "id": "6704f553-d190-49aa-b081-373e11b4a2a0",
+        "name": "Новогодняя премия",
+        "description": "",
+        "payments": [
+          {
+            "month": "2026-01",
+            "amount": 100000
+          },
+          {
+            "month": "2026-02",
+            "amount": 120000
+          },
+          {
+            "month": "2026-03",
+            "amount": 80000
+          },
+          {
+            "month": "2026-04",
+            "amount": 80000
+          },
+          {
+            "month": "2025-12",
+            "amount": 250000
+          },
+          {
+            "month": "2026-05",
+            "amount": 60000
+          },
+          {
+            "month": "2026-06",
+            "amount": 60000
+          }
+        ],
+        "createdAt": "2025-12-11T10:20:52.138Z",
+        "updatedAt": "2025-12-11T10:20:52.138Z"
+      }
+    ]
+  }
+}

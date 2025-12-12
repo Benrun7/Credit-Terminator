@@ -1,0 +1,179 @@
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765442717436}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765442717476}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442717481}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765442717482}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442717481}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442717483}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442717483}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":0},"timestamp":1765442717506}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442717511}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442717511}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":0},"timestamp":1765442717512}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442717514}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442717514}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765442717821}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765442717823}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442717825}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442717825}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765442717825}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442717825}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442717826}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":0},"timestamp":1765442717845}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":0},"timestamp":1765442717846}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442717851}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442717852}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765442718245}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765442718247}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442718248}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442718248}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765442718248}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442718248}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442718248}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":0},"timestamp":1765442718255}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442718256}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442718257}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":0},"timestamp":1765442718258}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442718259}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442718259}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765442728057}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765442728093}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442728096}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442728096}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765442728096}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442728097}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442728097}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":0},"timestamp":1765442728147}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":0},"timestamp":1765442728148}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765442728162}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765442728162}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":1},"timestamp":1765442976498}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":15,"eff":84},"timestamp":1765442976505}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443036572}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443036578}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":120000},"timestamp":1765443073475}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765443073484}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":200000},"timestamp":1765443100250}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765443100268}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":150000},"timestamp":1765443229078}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765443229098}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":150000},"timestamp":1765443230997}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765443231006}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":300000},"timestamp":1765443237325}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765443237340}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":90000},"timestamp":1765443300386}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765443300406}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":70000},"timestamp":1765443311907}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765443311914}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443520481}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443520482}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443520482}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443520488}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443520503}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443520505}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443520512}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443520514}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443520521}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443520521}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443520523}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443520564}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443689492}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443689495}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443689495}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443689496}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443689494}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443689499}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443689500}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443689501}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443689502}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443689502}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443689506}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443689506}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443689507}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443689513}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443689518}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443689522}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443689522}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443689523}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443689525}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443689528}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443689532}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443689533}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443689535}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443689541}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443789505}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443789509}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443789502}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443789505}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443789528}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443789529}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443789529}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443789531}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443789535}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443789542}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443789546}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443789551}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765443916439}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443916445}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443916447}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443916447}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443916447}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443916448}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443916448}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443916483}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443916484}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443916495}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443916502}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765443919027}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443919029}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443919030}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443919030}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765443919030}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765443919030}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765443919030}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443919051}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443919054}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765443919060}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765443919061}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443919082}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765443919082}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":100000},"timestamp":1765444011444}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765444011457}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":81000},"timestamp":1765444030717}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765444030726}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:start","message":"compare strategies start","data":{"totalMonthlyPayment":500000},"timestamp":1765444035601}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H3","location":"App.jsx:calcStrategies:success","message":"compare strategies success","data":{"strategies":4},"timestamp":1765444035609}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765448201768}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765448201776}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765448201778}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765448201778}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765448201779}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765448201778}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765448201779}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765448201822}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765448201823}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765448201834}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765448201847}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765448344605}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765448344610}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765448344608}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765448344610}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765448344610}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765448344611}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765448344610}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765448344651}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765448344645}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765448344657}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765448344658}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765448344684}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765448344689}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H0","location":"main.jsx:entry","message":"client entry","data":{},"timestamp":1765456183409}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765456183481}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765456183489}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765456183491}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:start","message":"loadCards start","data":{},"timestamp":1765456183492}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":0},"timestamp":1765456183495}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:no-cards","message":"recalculate no cards","data":{},"timestamp":1765456183496}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765456183517}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H1","location":"App.jsx:loadCards:success","message":"loadCards success","data":{"count":2},"timestamp":1765456183519}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:start","message":"recalculate start","data":{"cards":2},"timestamp":1765456183568}
+{"sessionId":"debug-session","runId":"run1","hypothesisId":"H2","location":"App.jsx:recalculate:success","message":"projection calculated","data":{"months":18,"eff":83},"timestamp":1765456183582}
